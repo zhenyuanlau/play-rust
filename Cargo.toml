@@ -1,0 +1,6 @@
+[package]
+name = "play-rust"
+version = "0.1.0"
+authors = ["Zhenyuan Lau <zhenyuanlau@icloud.com>"]
+
+[dependencies]
